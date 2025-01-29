@@ -6,5 +6,3 @@ My company is [Release Engineers](https://release-engineers.com).
 Staff Engineer at [DevLeaps](https://www.devleaps.nl/).
 
 For more, read [LinkedIn](https://linkedin.com/in/philippp).
-
-Personal site at [philipp.gayret.nl](https://philipp.gayret.nl).
